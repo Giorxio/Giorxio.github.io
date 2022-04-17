@@ -1,0 +1,36 @@
+html {
+  font-size: 10px;
+  font-family: 'Heebo', sans-serif;
+  background-color: #E7E7DD;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+/* a comment in .css can start with /* and end with */
+/* but not // sadly */
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #9A9B8C;
+  padding: 0 20px 22px 20px;
+  border: 1px solid black;
+  box-shadow: 5px 3px 30px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
